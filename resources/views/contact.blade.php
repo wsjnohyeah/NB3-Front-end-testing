@@ -38,8 +38,8 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">About Me</div>
-				<p>test test test</p>
+                <div class="title">Contact Me</div>
+				<p>heheh I won't tell you my number</p>
             </div>
         </div>
     </body>
