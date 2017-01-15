@@ -12,7 +12,8 @@ class PagesController extends Controller{
 		$firstName = "Ethan";
 		$lastName = "Hu";
 		$fullName = $firstName.' '.$lastName;
-		return view('about')	->with('fullName',$fullName);
+		$email = "ethan.hqc@icloud.com";
+		return view('about')	->with('fullName',$fullName)->with('email',$email);
 	}
 	
 	public function contact(){

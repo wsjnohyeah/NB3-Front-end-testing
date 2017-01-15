@@ -40,6 +40,7 @@
             <div class="content">
                 <div class="title">About Me</div>
 				<p>My Name: {{$fullName}}</p>
+				<p>My Email: {{$email}}</p>
             </div>
         </div>
     </body>
