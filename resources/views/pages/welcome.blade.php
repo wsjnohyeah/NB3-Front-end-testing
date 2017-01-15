@@ -2,9 +2,7 @@
 
 @section('title','home')
 
-@section('homeActive')
-active
-@endsection
+@section('homeActive','active')
 
 @section('content')
 	<div class="row">

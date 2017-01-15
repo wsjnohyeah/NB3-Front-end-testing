@@ -2,9 +2,7 @@
 
 @section('title','about')
 
-@section('aboutActive')
-active
-@endsection
+@section('aboutActive','active')
 
 @section('test')
 <p>this is a test</p>
