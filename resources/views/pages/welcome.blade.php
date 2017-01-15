@@ -4,6 +4,10 @@
 Home
 @endsection
 
+@section('homeActive')
+active
+@endsection
+
 @section('content')
 	<div class="row">
         <div class="col-md-12">

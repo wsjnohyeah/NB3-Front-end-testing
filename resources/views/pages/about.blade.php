@@ -4,8 +4,12 @@
 About
 @endsection
 
-@section('about_active')
+@section('aboutActive')
 active
+@endsection
+
+@section('test')
+<p>this is a test</p>
 @endsection
 
 @section('content')

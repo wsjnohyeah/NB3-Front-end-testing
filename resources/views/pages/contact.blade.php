@@ -4,7 +4,7 @@
 Contact
 @endsection
 
-@section('contact_active')
+@section('contactActive')
 active
 @endsection
 
