@@ -39,7 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">About Me</div>
-				<p>test test test</p>
+				<p>My Name: {{$fullName}}</p>
             </div>
         </div>
     </body>
