@@ -53,4 +53,4 @@
 
     </div>
     <!-- end of .container -->
-@end
+@endsection
