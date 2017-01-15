@@ -1,11 +1,9 @@
 @extends('main')
 
-@section('title')
-Contact
-@endsection
+@section('title','contact')
 
 @section('contactActive')
-active
+class="active"
 @endsection
 
 @section('content')

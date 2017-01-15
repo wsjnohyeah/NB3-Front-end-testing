@@ -1,11 +1,9 @@
 @extends('main')
 
-@section('title')
-Home
-@endsection
+@section('title','home')
 
 @section('homeActive')
-active
+class="active"
 @endsection
 
 @section('content')
