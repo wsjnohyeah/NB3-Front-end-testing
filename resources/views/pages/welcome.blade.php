@@ -3,7 +3,7 @@
 @section('title','home')
 
 @section('homeActive')
-class="active"
+active
 @endsection
 
 @section('content')

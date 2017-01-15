@@ -3,7 +3,7 @@
 @section('title','about')
 
 @section('aboutActive')
-class="active"
+active
 @endsection
 
 @section('test')

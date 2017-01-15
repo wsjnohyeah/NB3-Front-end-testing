@@ -40,9 +40,9 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
-            <li @yield('homeActive')><a href="/">Home</a></li>
-            <li @yield('aboutActive')><a href="/about">About</a></li>
-            <li @yield('contactActive')><a href="/contact">Contact</a></li>
+            <li class="@yield('homeActive')"><a href="/">Home</a></li>
+            <li class="@yield('aboutActive')"><a href="/about">About</a></li>
+            <li class="@yield('contactActive')"><a href="/contact">Contact</a></li>
           </ul>
           <ul class="nav navbar-nav navbar-right">
             <li class="dropdown">
