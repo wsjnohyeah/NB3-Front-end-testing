@@ -4,6 +4,10 @@
 Contact
 @endsection
 
+@section('contact_active')
+active
+@endsection
+
 @section('content')
       <div class="row">
         <div class="col-md-12">
