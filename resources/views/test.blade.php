@@ -5,6 +5,9 @@
     <!--Import Style Sheets-->
     <link type="text/css" rel="stylesheet" href="css/materialize.min.css" media="screen,projection" />
     <link rel="stylesheet" href="css/main.css" type="text/css" charset="utf-8" />
+	<style>
+		@yield('optional_style')
+	</style>
     <!--Let browser know website is optimized for mobile-->
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
@@ -72,14 +75,16 @@
     <div class="post-card about">
         <h5 class="subheader center-align">© 2015-2017 HFIProgramming</h5>
     </div>
-    <!--Import jQuery before materialize.js-->
+</body>
+
+<!--Scripts-->
     <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
     <script type="text/javascript" src="js/materialize.min.js"></script>
 	<script type="text/javascript" src="js/main.js"></script>
 	<script type="text/javascript" src="js/search.js"></script>
-    <!--Import TinyMCE-->
     <script src="http://cdn.tinymce.com/4/tinymce.min.js"></script>
     <script type="text/javascript" src="js/post.js"></script>
-</body>
+	<script>@yield('optional_script')</script>
+<!--End Scripts-->
 
 </html>

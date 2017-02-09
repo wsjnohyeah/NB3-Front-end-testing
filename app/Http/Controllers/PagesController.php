@@ -26,5 +26,9 @@ class PagesController extends Controller{
 		return view('testnb.index');
 	}
 	
+	public function nbPost(){
+		return view('testnb.post');
+	}
+	
 	
 }

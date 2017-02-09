@@ -6,8 +6,9 @@
 </head>
 
 <body>
-<h1>Select a page that you want to preview:</h1>
-<h1><a href="index">Index Page</a></h1>
+<h1 align="center">Select a page that you want to preview:</h1>
+<h1 align="center"><a href="index">Index Page</a></h1>
+<h1 align="center"><a href="index">Post Page</a></h1>
 
 </body>
 
