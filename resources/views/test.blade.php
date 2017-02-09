@@ -4,7 +4,8 @@
 <head>
     <!--Import Style Sheets-->
     <link type="text/css" rel="stylesheet" href="css/materialize.min.css" media="screen,projection" />
-    <link rel="stylesheet" href="css/main.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="railwaysans/css/stylesheet.css" type="text/css" charset="utf-8" />
+	<link rel="stylesheet" href="css/main.css" type="text/css" charset="utf-8" />
 	<style>
 		@yield('optional_style')
 	</style>
@@ -72,8 +73,8 @@
 	<!--End Post Cards-->
     
 	
-    <div class="post-card about">
-        <h5 class="subheader center-align">© 2015-2017 HFIProgramming</h5>
+    <div class="post-card article-card about">
+        <h5 class="subheader center-align">©2015-2017 HFIProgramming</h5>
     </div>
 </body>
 
