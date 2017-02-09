@@ -5,7 +5,8 @@ namespace App\Http\Controllers;
 class PagesController extends Controller{
 	
 	public function index(){
-		return view('pages.welcome');
+		//return view('pages.welcome');
+		return view('nbtest.selection');
 	}
 	
 	public function about(){
@@ -18,6 +19,11 @@ class PagesController extends Controller{
 	
 	public function contact(){
 		return view('pages.contact');	
+	}
+	
+	#for NB testing purposes
+	public function nbIndex(){
+		return view('nbtest.index');
 	}
 	
 	
