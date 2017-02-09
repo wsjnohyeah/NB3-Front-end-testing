@@ -10,7 +10,7 @@
                     <input id="search" name="q" type="hidden">
                     <input id="search" name="keyword" type="search" placeholder="Search NoticeBoard" required>
                     <label for="search"><i class="material-icons">search</i></label>
-                    <i class="material-icons" onclick="Clearcontent()">close</i>
+                    <i class="material-icons" onclick="submit()">done</i>
                 </div>
             </form>
         </div>
