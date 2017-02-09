@@ -6,7 +6,7 @@ class PagesController extends Controller{
 	
 	public function index(){
 		//return view('pages.welcome');
-		return view('nbtest.selection');
+		return view('testnb.selection');
 	}
 	
 	public function about(){
@@ -23,7 +23,7 @@ class PagesController extends Controller{
 	
 	#for NB testing purposes
 	public function nbIndex(){
-		return view('nbtest.index');
+		return view('testnb.index');
 	}
 	
 	
