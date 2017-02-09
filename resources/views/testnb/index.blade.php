@@ -5,12 +5,12 @@
 @section('optional_search_bar')
 	<nav class="search-bar">
         <div class="nav-wrapper">
-            <form method="get" action="https://www.bing.com/search" target="_blank" onsubmit="Bingsitesearch(this)">
+            <form id="search-form" method="get" action="https://www.bing.com/search" target="_blank">
                 <div class="input-field">
-                    <input id="search" name="q" type="hidden">
-                    <input id="search" name="keyword" type="search" placeholder="Search NoticeBoard" required>
-                    <label for="search"><i class="material-icons">search</i></label>
-                    <i class="material-icons" onclick="submit()">done</i>
+                    <input id="search-q" name="q" type="hidden">
+                    <input id="search-key" type="search" placeholder="Search NoticeBoard" required>
+                    <i class="material-icons">search</i>
+                    <i class="material-icons" onclick="do_search()">done</i>
                 </div>
             </form>
         </div>
