@@ -66,57 +66,12 @@
 	padding-left: 15px!important;
 }
 /*General Properties*/
-
-.triangle {
-	opacity: 0.9;
-	margin: auto;
-	width: 0;
-	height: 0;
-	border-left: 50px solid transparent;
-	border-right: 50px solid transparent;
-	border-bottom: 50px solid #66cccc;
-}
-
-.triangle.large {
-	border-left: 100px solid transparent;
-	border-right: 100px solid transparent;
-	border-bottom: 100px solid #66cccc;
-}
-
-.triangle.bottom {
-	border-bottom: none;
-	border-top: 50px solid #66cccc;
-}
-
-.triangle.bottom.large {
-	border-bottom: none;
-	border-top: 100px solid #66cccc;
-}
-
 .member-list-container {
 	margin-top: -0.5rem;
 	padding: 0!important;
 }
 
 @media only screen and (min-width: 992px) {
-	.triangle {
-		border-left: 100px solid transparent;
-		border-right: 100px solid transparent;
-		border-bottom: 100px solid #66cccc;
-	}
-	.triangle.large {
-		border-left: 150px solid transparent;
-		border-right: 150px solid transparent;
-		border-bottom: 150px solid #66cccc;
-	}
-	.triangle.bottom {
-		border-bottom: none;
-		border-top: 100px solid #66cccc;
-	}
-	.triangle.bottom.large {
-		border-bottom: none;
-		border-top: 150px solid #66cccc;
-	}
 	.member-list-container {
 		margin-top: 0;
 		padding-right: 30px!important;

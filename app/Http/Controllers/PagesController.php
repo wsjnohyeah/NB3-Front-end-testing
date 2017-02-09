@@ -34,5 +34,8 @@ class PagesController extends Controller{
 		return view('testnb.login');
 	}
 	
+	public function nbClub(){
+		return view('testnb.club');
+	}
 	
 }

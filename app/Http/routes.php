@@ -22,3 +22,5 @@ Route::get('index', 'PagesController@nbIndex');
 Route::get('post', 'PagesController@nbPost');
 
 Route::get('login', 'PagesController@nbLogin');
+
+Route::get('club', 'PagesController@nbClub');
