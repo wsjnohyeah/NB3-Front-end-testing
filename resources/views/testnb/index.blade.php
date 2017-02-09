@@ -66,9 +66,9 @@
                 <div class="card-content">
                     <!--Tags. Limit to 3 per post and their length-->
                     <div class="tag-container">
-                        <button class="tag-btn btn-flat waves-effect waves-light">PYTrade</button>
-                        <button class="tag-btn btn-flat waves-effect waves-light">#Beethoven</button>
-                        <button class="tag-btn btn-flat waves-effect waves-light">#Meme</button>
+                        <button class="tag-btn btn-flat waves-effect waves-light blue-text">#PYTrade</button>
+                        <button class="tag-btn btn-flat waves-effect waves-light blue-text">#Beethoven</button>
+                        <button class="tag-btn btn-flat waves-effect waves-light blue-text">#Meme</button>
                     </div>
                     <h6 class="subheader post-header hide-on-large-only">Ludwig van Beethoven on 2016/9/4 22:54</h6>
                     <p class="flow-text">
@@ -90,6 +90,7 @@
                         solemnis and an opera, Fidelio.</p>
                 </div>
                 <div class="card-content post-comment-card">
+					<p class="green-text">Most Recent Comment:</p>
                     <div class="card vertical post-card-content">
                         <div class="post-user-profile">
                             <div class="card-image"><img class="circle" src="assets/images/avatar.jpg" /></div>
@@ -124,9 +125,9 @@
                 <div class="card-content">
                     <!--Tags. Limit to 3 per post and their length-->
                     <div class="tag-container">
-                        <button class="tag-btn btn-flat waves-effect waves-light">#PYTrade</button>
-                        <button class="tag-btn btn-flat waves-effect waves-light">#Beethoven</button>
-                        <button class="tag-btn btn-flat waves-effect waves-light">#Meme</button>
+                        <button class="tag-btn btn-flat waves-effect waves-light blue-text">#PYTrade</button>
+                        <button class="tag-btn btn-flat waves-effect waves-light blue-text">#Beethoven</button>
+                        <button class="tag-btn btn-flat waves-effect waves-light blue-text">#Meme</button>
                     </div>
                     <h6 class="subheader post-header hide-on-large-only">Ludwig van Beethoven on 2016/9/4 22:54</h6>
                     <p class="flow-text">
@@ -148,6 +149,7 @@
                         solemnis and an opera, Fidelio.</p>
                 </div>
                 <div class="card-content post-comment-card">
+					<p class="green-text">Most Recent Comment:</p>
                     <div class="card vertical post-card-content">
                         <div class="post-user-profile">
                             <div class="card-image"><img class="circle" src="assets/images/avatar.jpg" /></div>
@@ -182,9 +184,9 @@
                 <div class="card-content">
                     <!--Tags. Limit to 3 per post and their length-->
                     <div class="tag-container">
-                        <button class="tag-btn btn-flat waves-effect waves-light">#PYTrade</button>
-                        <button class="tag-btn btn-flat waves-effect waves-light">#Beethoven</button>
-                        <button class="tag-btn btn-flat waves-effect waves-light">#Meme</button>
+                        <button class="tag-btn btn-flat waves-effect waves-light blue-text">#PYTrade</button>
+                        <button class="tag-btn btn-flat waves-effect waves-light blue-text">#Beethoven</button>
+                        <button class="tag-btn btn-flat waves-effect waves-light blue-text">#Meme</button>
                     </div>
                     <h6 class="subheader post-header hide-on-large-only">Ludwig van Beethoven on 2016/9/4 22:54</h6>
                     <p class="flow-text">
@@ -206,6 +208,7 @@
                         solemnis and an opera, Fidelio.</p>
                 </div>
                 <div class="card-content post-comment-card">
+					<p class="green-text">Most Recent Comment:</p>
                     <div class="card vertical post-card-content">
                         <div class="post-user-profile">
                             <div class="card-image"><img class="circle" src="assets/images/avatar.jpg" /></div>
@@ -240,9 +243,9 @@
                 <div class="card-content">
                     <!--Tags. Limit to 3 per post and their length-->
                     <div class="tag-container">
-                        <button class="tag-btn btn-flat waves-effect waves-light">#PYTrade</button>
-                        <button class="tag-btn btn-flat waves-effect waves-light">#Beethoven</button>
-                        <button class="tag-btn btn-flat waves-effect waves-light">#Meme</button>
+                        <button class="tag-btn btn-flat waves-effect waves-light blue-text">#PYTrade</button>
+                        <button class="tag-btn btn-flat waves-effect waves-light blue-text">#Beethoven</button>
+                        <button class="tag-btn btn-flat waves-effect waves-light blue-text">#Meme</button>
                     </div>
                     <h6 class="subheader post-header hide-on-large-only">Ludwig van Beethoven on 2016/9/4 22:54</h6>
                     <p class="flow-text">
@@ -264,6 +267,7 @@
                         solemnis and an opera, Fidelio.</p>
                 </div>
                 <div class="card-content post-comment-card">
+					<p class="green-text">Most Recent Comment:</p>
                     <div class="card vertical post-card-content">
                         <div class="post-user-profile">
                             <div class="card-image"><img class="circle" src="assets/images/avatar.jpg" /></div>
@@ -298,9 +302,9 @@
                 <div class="card-content">
                     <!--Tags. Limit to 3 per post and their length-->
                     <div class="tag-container">
-                        <button class="tag-btn btn-flat waves-effect waves-light">#PYTrade</button>
-                        <button class="tag-btn btn-flat waves-effect waves-light">#Beethoven</button>
-                        <button class="tag-btn btn-flat waves-effect waves-light">#Meme</button>
+                        <button class="tag-btn btn-flat waves-effect waves-light blue-text">#PYTrade</button>
+                        <button class="tag-btn btn-flat waves-effect waves-light blue-text">#Beethoven</button>
+                        <button class="tag-btn btn-flat waves-effect waves-light blue-text">#Meme</button>
                     </div>
                     <h6 class="subheader post-header hide-on-large-only">Ludwig van Beethoven on 2016/9/4 22:54</h6>
                     <p class="flow-text">
@@ -322,6 +326,7 @@
                         solemnis and an opera, Fidelio.</p>
                 </div>
                 <div class="card-content post-comment-card">
+					<p class="green-text">Most Recent Comment:</p>
                     <div class="card vertical post-card-content">
                         <div class="post-user-profile">
                             <div class="card-image"><img class="circle" src="assets/images/avatar.jpg" /></div>
@@ -356,9 +361,9 @@
                 <div class="card-content">
                     <!--Tags. Limit to 3 per post and their length-->
                     <div class="tag-container">
-                        <button class="tag-btn btn-flat waves-effect waves-light">#PYTrade</button>
-                        <button class="tag-btn btn-flat waves-effect waves-light">#Beethoven</button>
-                        <button class="tag-btn btn-flat waves-effect waves-light">#Meme</button>
+                        <button class="tag-btn btn-flat waves-effect waves-light blue-text">#PYTrade</button>
+                        <button class="tag-btn btn-flat waves-effect waves-light blue-text">#Beethoven</button>
+                        <button class="tag-btn btn-flat waves-effect waves-light blue-text">#Meme</button>
                     </div>
                     <h6 class="subheader post-header hide-on-large-only">Ludwig van Beethoven on 2016/9/4 22:54</h6>
                     <p class="flow-text">
@@ -380,6 +385,7 @@
                         solemnis and an opera, Fidelio.</p>
                 </div>
                 <div class="card-content post-comment-card">
+					<p class="green-text">Most Recent Comment:</p>
                     <div class="card vertical post-card-content">
                         <div class="post-user-profile">
                             <div class="card-image"><img class="circle" src="assets/images/avatar.jpg" /></div>
