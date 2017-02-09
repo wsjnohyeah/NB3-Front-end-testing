@@ -20,3 +20,5 @@ Route::get('contact', 'PagesController@contact');
 Route::get('index', 'PagesController@nbIndex');
 
 Route::get('post', 'PagesController@nbPost');
+
+Route::get('login', 'PagesController@nbLogin');

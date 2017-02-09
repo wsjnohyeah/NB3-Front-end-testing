@@ -6,9 +6,9 @@
     <link type="text/css" rel="stylesheet" href="css/materialize.min.css" media="screen,projection" />
     <link rel="stylesheet" href="railwaysans/css/stylesheet.css" type="text/css" charset="utf-8" />
 	<link rel="stylesheet" href="css/main.css" type="text/css" charset="utf-8" />
-	<style>
-		@yield('optional_style')
-	</style>
+	@yield('optional_style')
+	<!--End Import Styles-->
+	
     <!--Let browser know website is optimized for mobile-->
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
@@ -52,7 +52,7 @@
 		<nav style="box-shadow: none">
 			<div class="nav-wrapper" id="navbar">
 				<a href="#" data-activates="slide-out-panel" class="button-collapse push-l3 menu-button"><i class="material-icons">menu</i></a>
-				<a href="#"><img class="nb-logo brand-logo center" src="assets/images/logo.png"></img></a>
+				<a href="/"><img class="nb-logo brand-logo center" src="assets/images/logo.png"></img></a>
 				<ul id="nav-mobile" class="right">
 					<li><a href="#new-post"><i class="material-icons add-button">add</i></a></li>
 				</ul>
@@ -85,7 +85,7 @@
 	<script type="text/javascript" src="js/search.js"></script>
     <script src="http://cdn.tinymce.com/4/tinymce.min.js"></script>
     <script type="text/javascript" src="js/post.js"></script>
-	<script>@yield('optional_script')</script>
+	@yield('optional_script')
 <!--End Scripts-->
 
 </html>

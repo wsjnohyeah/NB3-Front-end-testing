@@ -30,5 +30,9 @@ class PagesController extends Controller{
 		return view('testnb.post');
 	}
 	
+	public function nbLogin(){
+		return view('testnb.login');
+	}
+	
 	
 }
