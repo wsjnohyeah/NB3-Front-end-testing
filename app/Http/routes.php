@@ -11,7 +11,8 @@
 |
 */
 
-/**Routes for my own larvel learning purposes*/
+
+/**Routes for my own Larvel learning purposes*/
 Route::get('/', 'PagesController@index');
 
 Route::get('about', 'PagesController@about');
