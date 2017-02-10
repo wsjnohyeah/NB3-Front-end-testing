@@ -21,7 +21,9 @@ class PagesController extends Controller{
 		return view('pages.contact');	
 	}
 	
-	#for NB testing purposes
+	
+	
+	/**for NB testing purposes*/
 	public function nbIndex(){
 		return view('testnb.index');
 	}

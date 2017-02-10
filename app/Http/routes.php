@@ -11,12 +11,16 @@
 |
 */
 
+/**Routes for my own larvel learning purposes*/
 Route::get('/', 'PagesController@index');
 
 Route::get('about', 'PagesController@about');
 
 Route::get('contact', 'PagesController@contact');
 
+
+
+/**Routes for NB View testing*/
 Route::get('index', 'PagesController@nbIndex');
 
 Route::get('post', 'PagesController@nbPost');
