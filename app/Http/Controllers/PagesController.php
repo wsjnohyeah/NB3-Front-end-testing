@@ -8,7 +8,7 @@ class PagesController extends Controller{
 		//return view('pages.welcome');
 		return view('testnb.selection');
 	}
-	
+
 	public function about(){
 		$firstName = "Ethan";
 		$lastName = "Hu";
@@ -21,9 +21,9 @@ class PagesController extends Controller{
 		return view('pages.contact');	
 	}
 	
-	
-	
-	/**for NB testing purposes*/
+	/**
+	 * For NB Testing Purposes
+	 */
 	public function nbIndex(){
 		return view('testnb.index');
 	}
