@@ -52,7 +52,9 @@
 		<nav style="box-shadow: none">
 			<div class="nav-wrapper" id="navbar">
 				<a href="#" data-activates="slide-out-panel" class="button-collapse push-l3 menu-button"><i class="material-icons">menu</i></a>
-				<a href="/"><img class="nb-logo brand-logo center" src="assets/images/logo.png"></img></a>
+				
+				<!--Change the href to / when uploaded to server. -->
+				<a href="index.php"><img class="nb-logo brand-logo center" src="assets/images/logo.png"></img></a>
 				<ul id="nav-mobile" class="right">
 					<li><a href="#new-post"><i class="material-icons add-button">add</i></a></li>
 				</ul>
