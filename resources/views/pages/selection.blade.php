@@ -13,6 +13,8 @@
 <h1 align="center"><a href="post">Post Page</a></h1>
 <h1 align="center"><a href="login">Login Page</a></h1>
 <h1 align="center"><a href="club">Club Page</a></h1>
+<h1 align="center"><a href="voteselect">Vote Selection Page</a></h1>
+<h1 align="center"><a href="voteresult">Vote Result Page</a></h1>
 
 </body>
 

@@ -12,20 +12,17 @@
 */
 
 
-/**Routes for my own Larvel learning purposes*/
-Route::get('/', 'PagesController@index');
-
-Route::get('about', 'PagesController@about');
-
-Route::get('contact', 'PagesController@contact');
-
-
-
 /**Routes for NB View testing*/
-Route::get('index', 'PagesController@nbIndex');
+Route::get('/',function(){return view('pages.selection');});
 
-Route::get('post', 'PagesController@nbPost');
+Route::get('index', function(){return view('pages.index');});
 
-Route::get('login', 'PagesController@nbLogin');
+Route::get('post', function(){return view('pages.post');});
 
-Route::get('club', 'PagesController@nbClub');
+Route::get('login', function(){return view('pages.login');});
+
+Route::get('club', function(){return view('pages.club');});
+
+Route::get('voteselect', function(){return view('pages.voteSelect');});
+
+Route::get('voteresult', function(){return view('pages.voteResult');});

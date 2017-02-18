@@ -1,4 +1,4 @@
-@extends('test')
+@extends('main')
 
 @section('title','article page')
 

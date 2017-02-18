@@ -100,8 +100,4 @@ $(document).ready(function() {
       }
     });
   };
-  //TinyMCE image upload
-  tinymce.activeEditor.uploadImages(function(success) {
-    document.forms[0].submit();
-  });
 });

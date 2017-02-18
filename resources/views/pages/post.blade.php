@@ -1,4 +1,4 @@
-@extends('test')
+@extends('main')
 
 @section('title','article page')
 
@@ -98,4 +98,8 @@
 			</div>
 		</div>
 	</div>
+@endsection
+
+@section('post_and_tinymce')
+	@include('subviews.postJS')
 @endsection
