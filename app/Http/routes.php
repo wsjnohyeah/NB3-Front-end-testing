@@ -10,6 +10,7 @@
 | and give it the controller to call when that URI is requested.
 |
 */
+use Illuminate\Support\Facades\Input;
 
 
 /**Routes for NB View testing*/
@@ -23,6 +24,13 @@ Route::get('login', function(){return view('pages.login');});
 
 Route::get('club', function(){return view('pages.club');});
 
-Route::get('voteselect', function(){return view('pages.voteSelect');});
+Route::get('voteselect', function(){return view('pages.vote.select');});
 
-Route::get('voteresult', function(){return view('pages.voteResult');});
+Route::get('voteresult', function(){return view('pages.vote.result');});
+
+Route::get('votedisplay', function(){return view('pages.vote.display');});
+
+Route::post('testvote',function(){
+	$selected = Input::get('selected');
+	echo $selected;
+});

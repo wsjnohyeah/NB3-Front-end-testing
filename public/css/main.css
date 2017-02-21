@@ -227,6 +227,11 @@ nav {
 	margin-top: -30px;
 }
 
+.post-card-heading div{
+	height: 2rem;
+	line-height: 2rem;
+}
+
 .post-header.subheader.hide-on-med-and-down {
 	margin-right: 32.5rem;
 	display: inline;
@@ -374,6 +379,11 @@ nav {
 	 padding-bottom:0.6rem;
 }
 .vote-result-pack{
-	padding:1rem 0;
+	padding-top: 1rem !important;
+	padding-bottom: 1rem !important;
 	border-bottom: 1px #DDD solid;
+}
+.vote-block{
+	padding-top: 2rem;
+	border-top: 1px #DDD solid;
 }
