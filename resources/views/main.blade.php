@@ -5,7 +5,7 @@
     <!--Import Style Sheets from external sources-->
     <link type="text/css" rel="stylesheet" href="//cdn.bootcss.com/materialize/0.98.0/css/materialize.min.css" media="screen,projection" />
     
-    	<!-- self-->
+    <!-- self-->
     <link rel="stylesheet" href="railwaysans/css/stylesheet.css" type="text/css" charset="utf-8" />
 	<link rel="stylesheet" href="css/main.css" type="text/css" charset="utf-8" />
 	@yield('optional_style')
